@@ -1,5 +1,5 @@
 # 💫 About Me:
- An aspiring developer, currently enrolled in Parul University, with B. Tech in Computer Science AIML<br>Currently in 2nd year having beginner web dev, game dev and DSA skills.
+ An aspiring developer, currently enrolled at Parul University, with B. Tech in Computer Science AIML<br>Currently in 2nd year having beginner web dev, game dev and DSA skills.
 
 
 # 💻 Tech Stack:
